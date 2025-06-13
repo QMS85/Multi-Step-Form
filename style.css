@@ -611,9 +611,11 @@ html, body {
   }
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  text-decoration: none;
-  align-items: center;
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
 }
